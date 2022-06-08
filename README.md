@@ -47,8 +47,8 @@ Once the website is fully tested and functional, we plan to take the app to beta
 
 #### Made with ❤️ GDSC-CUIET team 
 ##### Developers
-- Armaan jain Arman0432.cse19@chitkara.edu.in
-- Devansh Walia Devansh0442.cse19@chitkara.edu.in
-- Anshuman Singla Anshuman0425.cse19@chitkara.edu.in
-- Yatin Singla  Yatin0433.cse19@chitkara.edu.in
-- Rajat Sharma dunit99k@gmail.com
+- [Armaan jain](mailto: Arman0432.cse19@chitkara.edu.in)
+- [Devansh Walia](mailto: Devansh0442.cse19@chitkara.edu.in)
+- [Anshuman Singla](mailto: Anshuman0425.cse19@chitkara.edu.in)
+- [Yatin Singla](mailto:  Yatin0433.cse19@chitkara.edu.in)
+- [Rajat Sharma](mailto: dunit99k@gmail.com)
